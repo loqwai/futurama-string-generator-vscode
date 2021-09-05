@@ -49,6 +49,6 @@
 		"webpack-cli": "^4.7.0"
 	},
 	"dependencies": {
-		"futurama-string-generator": "^1.0.3"
+		"futurama-string-generator": "^1.0.6"
 	}
 }
